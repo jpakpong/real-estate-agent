@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia Metropolitan | Prime City Center Residences",
+  "description": "Premier residential real estate agency specializing in luxury flats, apartments, and penthouses across prime city center districts. Features interactive neighborhood map, high-fidelity gallery, and private viewing booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
